@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486488580 source:c:\users\azizul56\desktop\asj\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
